@@ -1,0 +1,36 @@
+.header-hidden1 {
+  display: none;
+}
+
+.header-hidden2 {
+  display: none;
+}
+
+.header-hidden3 {
+  display: none;
+}
+
+.header-hidden4 {
+  display: none;
+}
+
+.header-hidden5 {
+  display: none;
+}
+
+.header-hidden6 {
+  display: none;
+}
+
+.card {
+  background-color: #97b1db;
+  height: 300px;
+  padding: 50px 20px 0px 20px;
+  margin-top: 50px;
+  border: 3px solid #43536d;
+  border-radius: 10px;
+}
+h2, p {
+  text-align: center;
+
+}
